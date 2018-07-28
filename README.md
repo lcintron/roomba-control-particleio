@@ -4,4 +4,4 @@ Control your roomba with your cloud enabled Particle microcontroller.
 ## Features
 - Start/Stop roomba
 - Play Despacito (yes - it can!)
-- Publishes methods that can be connected to IFTTT to be triggered (e.g. Amazon's ALEXA)
+- Publishes control methods so that they can be called from IFTTT triggers to enable a range of services (e.g. Amazon's ALEXA).
